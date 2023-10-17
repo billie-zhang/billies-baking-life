@@ -4,4 +4,4 @@ Explore simple recipes on this food blog, designed to help you  satisfy your fav
 
 ### Indulge in some sweets: 
 
-[Billie's Baking Life](https://billiesbakinglife.com){:target="_blank" rel="noopener"}
+[Billie's Baking Life](https://billiesbakinglife.com)
